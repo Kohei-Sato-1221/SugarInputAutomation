@@ -1,0 +1,2 @@
+# SugarInputAutomation
+automated keyboard input
